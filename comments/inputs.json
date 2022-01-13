@@ -1,0 +1,16 @@
+{
+  "data_dir": "./data",
+  "batch_size": 80,
+  "nb_channels": 1,
+  "nb_epochs": 200,
+  "lr": 0.1,
+  "output_dim": [
+    448,
+    672
+  ],
+  "val_interval": 1,
+  "labels": [
+    2
+  ],
+  "outdir": "./results/test"
+}
