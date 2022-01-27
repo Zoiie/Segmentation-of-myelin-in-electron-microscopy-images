@@ -9,3 +9,4 @@
 ### You can find the codes of Hausdorff distance, dice, MSE, SSIM in the followwing file:
 ### images_compare.py
 
+### the simple software is in build/segmentation
